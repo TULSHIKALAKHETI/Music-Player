@@ -4,3 +4,5 @@ Designed and developed a music player that uses the HTML5 audio API supports pla
 Also supports features like looping songs, looping and shuffling playlists. 
 
 
+## DEMO:
+https://tulshikalakheti.github.io/Music-Player/
